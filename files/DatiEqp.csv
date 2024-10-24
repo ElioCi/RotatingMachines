@@ -1,0 +1,5 @@
+,name,type,power,weight,rot_mass,velocity,CoG_X,CoG_Y,CoG_Z
+0,Pump,Dynamic,22.0,423.0,169.20000000000002,1450.0,784.0,650.0,560.0
+1,Motor,Dynamic,22.0,177.0,70.8,1450.0,1384.0,650.0,560.0
+2,Coupling,Static,22.0,20.0,8.0,0.0,1268.0,650.0,560.0
+3,Baseplate,Static,22.0,530.0,212.0,0.0,1073.0,650.0,80.0
